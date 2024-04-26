@@ -7,6 +7,6 @@ This repository serves as a collaborative project aimed at enhancing coding skil
 Hangman is a simple guessing game where the player attempts to guess a word letter by letter. With each incorrect guess, a part of the hangman is drawn. The player wins if they guess all the letters in the word before the hangman is fully drawn, otherwise, they lose.
 
 ## Team Members
-Navya  : 2310992164 : Tester<br>
 Navdeep Singh : 2310992162 : Developer<br>
 Navjot Singh : 2310992163 : Developer and Manager<br>
+Navya  : 2310992164 : Tester<br>
