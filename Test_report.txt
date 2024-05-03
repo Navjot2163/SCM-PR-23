@@ -1,25 +1,27 @@
 Testing Report: Calculator HTML Code 🧮
 
-Date: [Insert Date]
+Date: 3/5/24
 
-Tester: [Your Name]
+Tester: Navdeep Singh
+
+Version: V.1.2
 
 Objective:
 Assess the functionality and appearance of the provided calculator HTML code.
 
 Findings:
 
-Buttons are responsive to clicks and actions.
-Basic arithmetic operations (+, -, *, /) perform as expected.
-Special functions (C, %, π, x²) work correctly.
-Design features an attractive gradient background and clear button layout.
-Layout adapts well to different screen sizes.
+*Buttons are responsive to clicks and actions.
+*Basic arithmetic operations (+, -, *, /) perform as expected.
+*Special functions (C, %, π, x²) work correctly.
+*Design features an attractive gradient background and clear button layout.
+*Layout adapts well to different screen sizes.
 Conclusion:
 The calculator HTML code functions effectively, providing users with a visually appealing and functional interface for performing calculations.
 
 Recommendations:
 
-Consider adding keyboard support for enhanced usability.
-Ensure accessibility features are implemented for users with disabilities.
-Further testing on various browsers and devices to confirm compatibility. 🌐
+*Consider adding keyboard support for enhanced usability.
+*Ensure accessibility features are implemented for users with disabilities.
+*Further testing on various browsers and devices to confirm compatibility. 🌐
 
